@@ -1,0 +1,9 @@
+# Comunicação com a Exchange
+ccxt
+
+# Manipulação de Dados e Indicadores Técnicos
+pandas
+pandas-ta
+
+# Gerenciamento de Variáveis de Ambiente
+python-dotenv
